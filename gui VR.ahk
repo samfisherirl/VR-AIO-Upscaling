@@ -11,7 +11,7 @@ Gui Add, Button, gButt x288 y248 w80 h23, OK
 Gui Add, Text, x32 y8 w296 h86, Select the highest folder in a game's directory. `n`nIf the game is in:`nC:\Games\Fortnite\Binary\Fortnite Win64\`nBrowse for:`nC:\Games\Fortnite
 Gui Add, ComboBox, x288 y192 w81 vMenu, High||Medium|Low
 Gui Add, Text, x32 y194 w167 h29 +0x200, 3) Select your PC's capabilities
-Gui Add, Link, x288 y8 w120 h23, <a href="https://autohotkey.com">autohotkey.com</a>
+Gui Add, Link, x288 y8 w120 h23, <a href="https://github.com/samfisherirl/VR-AIO-Upscaling/">github</a>
 
 Gui Show, w392 h304, VR Universal Mod - VRfect & FSR
 Return
