@@ -1,6 +1,8 @@
 # VR-AIO-Upscaling
 VR AIO Universal Upscaling Mod
 
+Download here: https://github.com/samfisherirl/VR-AIO-Upscaling/releases/tag/v0.8
+
 credits to https://github.com/fholger/openvr_fsr
 and https://github.com/fholger/vrperfkit
 
